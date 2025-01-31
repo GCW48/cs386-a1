@@ -20,6 +20,9 @@ Added a folder for deliverables and a new report
 Learned how to use Github in order to complete the worksheet
 
 Gordon:
+Watched Blender videos 
+Proposed game setting and situations
+Helped with Deliverable and worksheets
 
 Maya: 
 
@@ -48,5 +51,7 @@ Stay on top of deliverables.
 Figure out if IMG 386 is going to be offered again. 
 
 Gordon:
+Making a model for the main character
+beginn designing levels
 
 Maya: 
