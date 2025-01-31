@@ -1,4 +1,4 @@
-# Report for Week #X
+# Report for Week #3
 
 # Untitled College Dress up Horror 
 
@@ -11,7 +11,8 @@ Project repo: https://github.com/GCW48/cs386-a1/edit/main/Reports/Report1-31.md
 
 # update 
 
-Carson: 
+Carson:
+
 Worked on learning Godot by watching videos and participating in a game jam
 
 Added a folder for deliverables and a new report
@@ -24,16 +25,27 @@ Maya:
 
 # Retrospection:
 
-Carson: 
 
-Gordon:
+Appreciation: Maya created a cool protagonist
 
-Maya: 
+Successes: We figured out how to use the very basics of Git. 
+
+Failures: Having trouble learning Godot in the time frame.
+
+Barriers: Only one meeting time. Lack of exprience with tools.
+
+Next Time: 
 
 
 # Next steps 
 
 Carson: 
+
+Finish video on GD script. Start one on 3D usage of GODOT.
+
+Stay on top of deliverables.
+
+Figure out if IMG 386 is going to be offered again. 
 
 Gordon:
 
