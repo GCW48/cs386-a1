@@ -24,7 +24,7 @@ Watched Blender videos
 Proposed game setting and situations
 Helped with Deliverable and worksheets
 
-Maya: 
+Maya: Created designs for the protagonist and main enemy. Helped with deliverables and worksheets.
 
 # Retrospection:
 
@@ -54,4 +54,4 @@ Gordon:
 Making a model for the main character
 beginn designing levels
 
-Maya: 
+Maya: Create more enemy and character designs, specifically for the exaggerated student arhetypes. Create concept art for the setting and mood.
