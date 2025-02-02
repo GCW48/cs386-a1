@@ -87,7 +87,7 @@ Time Limited gameplay is good if it's not just there to increase play time or re
 quotes: 
 Being limited on time can suck but also feel good from the challange i guess
 
-Overall: 
+Assessment: Nice to Have
 
 who: 
 Random Guy from California - Mark
@@ -104,7 +104,7 @@ Backtracking and boring obstacles are a bore, College students are either always
 quotes: 
 "It’s stressful and sometimes frustrating, but it can also be motivating when used well."
 
-Overall:
+Assessment: Nice to Have
 
 who: 
 Gordon's Brother - Danny
@@ -120,6 +120,8 @@ Danny believes video games feel more manufactured in the recent years, Enjoys in
 
 quotes: 
 "It’s stressful and sometimes frustrating, but it can also be motivating when used well."
+
+Assessment: Nice to Have
 
 ### Maya:
 
