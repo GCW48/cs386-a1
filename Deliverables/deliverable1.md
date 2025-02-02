@@ -85,14 +85,25 @@ who: Random Guy from California - Mark
 
 when: 2/2/2025
 
-customer segment: Pharmaceutical Student MOBA/MMORPG
+customer segment: Pharmaceutical Student that plays MOBA/MMORPG
 
-insights: Backtracking, Boring obstacles, College students are either always sleep deprived or social butterflies. Video games are nice for stress relief.  Slay the spire is good short game. Limiting time is stressful and frustrating, but it motivates well.
+insights: Backtracking and boring obstacles are a bore, College students are either always sleep deprived or social butterflies. Video games are nice for stress relief.  Slay the spire is good short game. Limiting time is stressful and frustrating, but it motivates well.
 
 quotes:"It’s stressful and sometimes frustrating, but it can also be motivating when used well."
 
 Overall:
 
+who: Gordon's Brother - Danny
+
+when: 2/2/2025
+
+customer segment:  Technical solutions engineer that plays Horror Indie Games and Gacha Games
+
+insights: Danny believes video games feel more manufactured in the recent years, Enjoys indepth character designs that fit into the world. If the Limited time segment is too hard makes him apathetic towards the proccess, if it's only slightly a challenge it makes him more motivated. He likes tight controls in video games. He likes to be socialy isolated. Tim trials in video games are fun. He doesn't like it steals because it requires fast and slow gameplay.
+
+quotes:"It’s stressful and sometimes frustrating, but it can also be motivating when used well."
+
+Overall:
 ### Gordon:
 
 ### Maya:
