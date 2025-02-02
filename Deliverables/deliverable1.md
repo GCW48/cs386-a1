@@ -16,34 +16,58 @@ game about identity in a college atmosphere.
 
 ## Customer Questions:
 
-What sort of mechanics do you find annoying when you are limited on time?
+1. What sort of mechanics do you find annoying when you are limited on time?
 
-What sort of archetypes do you see around a college campus?
+2. What sort of archetypes do you see around a college campus?
 
-How has your perception of Video Games changed during your educational expierence?
+3. How has your perception of Video Games changed during your educational expierence?
 
-What are some examples of short games you found effective and relatable? why?
+4. What are some examples of short games you found effective and relatable? why?
 
-How would you describe the feeling of being limited on time? 
+5. How would you describe the feeling of being limited on time? 
 
-Do you prefer tight or loose controls for horror titles?
+6. Do you prefer tight or loose controls for horror titles?
 
-How would you describe feelings of social isolation? 
+7. How would you describe feelings of social isolation? 
 
-What are some examples of time constraints in games that you felt added a healthy challenge?
+8. What are some examples of time constraints in games that you felt added a healthy challenge?
 
-What about some examples that you found frustrating? why?
+9. What about some examples that you found frustrating? why?
 
 
 ##  Interview Summary:
 
 ### Carson:
-who:
-when:
+
+who: 
+Friend from Highschool 
+
+when: 
+2-1-2025
+
 customer segment:
+They are a college student who studies pre-med, and eventually nursing. 
+
 insights:
+They found themselves still prioritizing games even in college, so they did not have much of 
+an opinion on shorter titles. However, they did claim that they found 
+ 
 quotes:
+
 Overall:
+
+who: 
+
+when:
+
+customer segment:
+
+insights:
+
+quotes:
+
+Overall:
+
 ### Gordon:
 
 ### Maya:
