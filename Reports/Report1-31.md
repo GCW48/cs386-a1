@@ -46,7 +46,7 @@ Failures: Having trouble learning Godot in the time frame.
 
 Barriers: Only one meeting time. Lack of exprience with tools.
 
-Next Time: 
+Next Time: Start implementing assets.
 
 
 # Next steps 
