@@ -69,15 +69,27 @@ It was nice to talk with someone with a bit of expierence. I think the big takea
 
 Although they are not inverse, lack of control is a key of horror, so we should make a decision on which we would like to lean into more. 
 
-who: 
+who: Random Guy from Germany - Sebastion
 
-when:
+when: 2/2/2025
 
-customer segment:
+customer segment: Mechanic that plays variety indie games
 
-insights:
+insights: Time Limited gameplay is good if it's not just there to increase play time or reset all their content. Tight gaming controls are good.
 
-quotes:
+quotes: Being limited on time can suck but also feel good from the challange i guess
+
+Overall: 
+
+who: Random Guy from California - Mark
+
+when: 2/2/2025
+
+customer segment: Pharmaceutical Student MOBA/MMORPG
+
+insights: Backtracking, Boring obstacles, College students are either always sleep deprived or social butterflies. Video games are nice for stress relief.  Slay the spire is good short game. Limiting time is stressful and frustrating, but it motivates well.
+
+quotes:"It’s stressful and sometimes frustrating, but it can also be motivating when used well."
 
 Overall:
 
