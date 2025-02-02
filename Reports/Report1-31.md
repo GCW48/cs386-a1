@@ -19,12 +19,21 @@ Added a folder for deliverables and a new report
 
 Learned how to use Github in order to complete the worksheet
 
+Helped with deliverables
+
 Gordon:
+
 Watched Blender videos 
+
 Proposed game setting and situations
+
 Helped with Deliverable and worksheets
 
-Maya: Created designs for the protagonist and main enemy. Helped with deliverables and worksheets.
+Maya: 
+
+Created designs for the protagonist and main enemy.
+
+Helped with deliverables and worksheets.
 
 # Retrospection:
 
@@ -51,7 +60,11 @@ Stay on top of deliverables.
 Figure out if IMG 386 is going to be offered again. 
 
 Gordon:
+
 Making a model for the main character
+
 beginn designing levels
 
-Maya: Create more enemy and character designs, specifically for the exaggerated student arhetypes. Create concept art for the setting and mood.
+Maya: 
+
+Create more enemy and character designs, specifically for the exaggerated student arhetypes. Create concept art for the setting and mood.
