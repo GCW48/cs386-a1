@@ -40,23 +40,34 @@ game about identity in a college atmosphere.
 ### Carson:
 
 who: 
-Friend from Highschool 
+Friend from Highschool: Miles
 
 when: 
 2-1-2025
 
 customer segment:
+
 They are a college student who studies pre-med, and eventually nursing. 
 
 insights:
+
 They found themselves still prioritizing games even in college, so they did not have much of 
-an opinion on shorter titles. However, they do have quiet a bit of expierence with horror. 
+
+an opinion on shorter titles and changes in how they intreact wiht the medium. However, they do have quiet a bit of expierence with horror. 
+
 They gave the advice that they find timed mechanics in horror games to be effective in moderation.
 
+If we make the platforming too hard, timing too tight, and controls too loose; then the entire expierence will be frustrating.
  
 quotes:
 
+"If you want to make a platformer, then don't make your controls too loose" (paraphrased).
+
 Overall:
+
+It was nice to talk with someone with a bit of expierence. I think the big takeaway is balancing platforming and percision gameplay with horror.
+
+Although they are not inverse, lack of control is a key of horror, so we should make a decision on which we would like to lean into more. 
 
 who: 
 
