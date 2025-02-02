@@ -63,11 +63,7 @@ quotes:
 
 "If you want to make a platformer, then don't make your controls too loose" (paraphrased).
 
-Overall:
-
-It was nice to talk with someone with a bit of expierence. I think the big takeaway is balancing platforming and percision gameplay with horror.
-
-Although they are not inverse, lack of control is a key of horror, so we should make a decision on which we would like to lean into more. 
+Assesments: Nice to have. They thought the concept was neat. 
 
 who: Random Guy from Germany - Sebastion
 
