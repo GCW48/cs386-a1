@@ -69,6 +69,9 @@ It was nice to talk with someone with a bit of expierence. I think the big takea
 
 Although they are not inverse, lack of control is a key of horror, so we should make a decision on which we would like to lean into more. 
 
+
+Overall:
+### Gordon:
 who: 
 Random Guy from Germany - Sebastion
 
@@ -117,9 +120,6 @@ Danny believes video games feel more manufactured in the recent years, Enjoys in
 
 quotes: 
 "It’s stressful and sometimes frustrating, but it can also be motivating when used well."
-
-Overall:
-### Gordon:
 
 ### Maya:
 
