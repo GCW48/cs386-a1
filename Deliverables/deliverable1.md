@@ -16,7 +16,7 @@ game about identity in a college atmosphere.
 
 ## Customer Questions:
 
-1. What sort of mechanics do you find annoying when you are limited on time?
+1. What sort of game mechanics do you find annoying when you are limited on time?
 
 2. What sort of archetypes do you see around a college campus?
 
@@ -50,7 +50,9 @@ They are a college student who studies pre-med, and eventually nursing.
 
 insights:
 They found themselves still prioritizing games even in college, so they did not have much of 
-an opinion on shorter titles. However, they did claim that they found 
+an opinion on shorter titles. However, they do have quiet a bit of expierence with horror. 
+They gave the advice that they find timed mechanics in horror games to be effective in moderation.
+
  
 quotes:
 
