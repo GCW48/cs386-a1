@@ -1,18 +1,10 @@
 # Deliverable 1
 
 ## Project:
-In this 3D horror game created with Godot, you play as a college student trying to escape a nightmarish version of your campus. Your face is brutally peeled off 
-
-by the sinister being. As you navigate the eerie environment, you must solve puzzles and avoid terrifying creatures to keep your identity intact. Your ultimate
-
-goal is to escape before your identity is lost forever, but time is running out.
+In this 3D horror game created with Godot, you play as a college student trying to escape a nightmarish version of your campus. Your face is brutally peeled off by the sinister being. As you navigate the eerie environment, you must solve puzzles and avoid terrifying creatures to keep your identity intact. Your ultimate goal is to escape before your identity is lost forever, but time is running out.
 
 ## Value Proposition:
-
-Our game allows college students who enjoy horror games, and are short on time, to play something short and relatable by creating a short
-
-game about identity in a college atmosphere.
-
+Our game allows college students who enjoy horror games, and are short on time, to play something short and relatable by creating a short game about identity in a college atmosphere.
 
 ## Customer Questions:
 
@@ -46,29 +38,20 @@ when:
 2-1-2025
 
 customer segment:
-
 They are a college student who studies pre-med, and eventually nursing. 
 
 insights:
-
-They found themselves still prioritizing games even in college, so they did not have much of 
-
-an opinion on shorter titles and changes in how they intreact wiht the medium. However, they do have quiet a bit of expierence with horror. 
-
-They gave the advice that they find timed mechanics in horror games to be effective in moderation.
+They found themselves still prioritizing games even in college, so they did not have much of an opinion on shorter titles and changes in how they intreact wiht the medium. However, they do have quiet a bit of expierence with horror.They gave the advice that they find timed mechanics in horror games to be effective in moderation.
 
 If we make the platforming too hard, timing too tight, and controls too loose; then the entire expierence will be frustrating.
+
+It was nice to talk with someone with a bit of expierence. I think the big takeaway is balancing platforming and percision gameplay with horror. Although they are not inverse, lack of control is a key of horror, so we should make a decision on which we would like to lean into more. 
  
 quotes:
 
 "If you want to make a platformer, then don't make your controls too loose" (paraphrased).
 
-Overall:
-
-It was nice to talk with someone with a bit of expierence. I think the big takeaway is balancing platforming and percision gameplay with horror.
-
-Although they are not inverse, lack of control is a key of horror, so we should make a decision on which we would like to lean into more. 
-
+Assesment: Nice to Have
 
 ### Gordon:
 who: 
@@ -84,7 +67,7 @@ insights:
 Time Limited gameplay is good if it's not just there to increase play time or reset all their content. Tight gaming controls are good.
 
 quotes: 
-Being limited on time can suck but also feel good from the challange i guess
+"Being limited on time can suck but also feel good from the challange, I guess"
 
 Assessment: Nice to Have
 
@@ -118,13 +101,13 @@ insights:
 Danny believes video games feel more manufactured in the recent years, Enjoys indepth character designs that fit into the world. If the Limited time segment is too hard makes him apathetic towards the proccess, if it's only slightly a challenge it makes him more motivated. He likes tight controls in video games. He likes to be socialy isolated. Tim trials in video games are fun. He doesn't like it steals because it requires fast and slow gameplay. Also hates long dialogue with no skip feature.
 
 quotes: 
-"It’s stressful and sometimes frustrating, but it can also be motivating when used well."
+"It’s (time constraints) stressful and sometimes frustrating, but it can also be motivating when used well."
 
 Assessment: Nice to Have
 
 ### Maya:
 who:
-Sibling - Brienne
+Maya's Sibling - Brienne
 
 when:
 2-2-2025
@@ -136,11 +119,12 @@ insights:
 They dislike slow movement and combat; and ineffective targeting controls.
 They find gaming in college to be more of a privlage than compared to when they were is high/middle school. They think time constraints are stressful, and frustrating. Does not think games should have time constraints as the main feature. There should be a healthy balance, or choice by the player. 
 
-
 quotes:
 "...throughout college I slowly began to see gaming as a leisurely activity. It definitely feels more like a privlage since I have less free time."
+
 "The longer someone is socially isolated, the harder it is to go back to social life."
 
-Assesment: Nice to Have
+Assesment: Don't Care
 
 ## New Proposition: 
+Our game allows horror-enjoying College gamers who are possibly short on time due to classes, to immersive themselves in a short but relatable story by providing them with a horror role-playing game that is centered around the theme of self-reflection and identity in a college atmosphere.
