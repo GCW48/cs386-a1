@@ -70,7 +70,6 @@ It was nice to talk with someone with a bit of expierence. I think the big takea
 Although they are not inverse, lack of control is a key of horror, so we should make a decision on which we would like to lean into more. 
 
 
-Overall:
 ### Gordon:
 who: 
 Random Guy from Germany - Sebastion
@@ -124,5 +123,24 @@ quotes:
 Assessment: Nice to Have
 
 ### Maya:
+who:
+Sibling - Brienne
+
+when:
+2-2-2025
+
+customer segment:
+A university student studying Fine Arts with a major in Painting.
+
+insights:
+They dislike slow movement and combat; and ineffective targeting controls.
+They find gaming in college to be more of a privlage than compared to when they were is high/middle school. They think time constraints are stressful, and frustrating. Does not think games should have time constraints as the main feature. There should be a healthy balance, or choice by the player. 
+
+
+quotes:
+"...throughout college I slowly began to see gaming as a leisurely activity. It definitely feels more like a privlage since I have less free time."
+"The longer someone is socially isolated, the harder it is to go back to social life."
+
+Assesment: Nice to Have
 
 ## New Proposition: 
