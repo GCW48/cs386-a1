@@ -32,6 +32,10 @@ Gordon:
 
 Maya: 
 
+Worked on worksheets.
+
+Started creating enemy designs, and concept designs.
+
 # Retrospection:
 
 
@@ -60,3 +64,7 @@ Gordon:
 
 
 Maya: 
+
+Continue working on enemy designs.
+
+Start fleshing out the story of the game to futher flesh out the concept and direction.
