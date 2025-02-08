@@ -56,7 +56,7 @@ Our product
 
 # User stories
 
-1.one<br>
+1.one <br>
 one<br>
 2. two<br>
 two<br>
