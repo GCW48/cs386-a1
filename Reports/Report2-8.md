@@ -8,7 +8,7 @@ Date: 2-8
 
 Location: Online
 
-Present participants: 
+Present participants: Carson, Maya, Gordon
 
 Missing participants: 
 
@@ -27,7 +27,8 @@ Watched video on GODOT
 
 Gordon:
 
-
+Made mask model
+Remaking MC model
 
 
 Maya: 
@@ -61,7 +62,8 @@ Learn how to colloborate on GODOT using GITH
 
 Gordon:
 
-
+Make miscellaneous stuff for the game
+Bone the mc model
 
 Maya: 
 
