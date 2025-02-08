@@ -39,15 +39,15 @@ Started creating enemy designs, and concept designs.
 # Retrospection:
 
 
-Appreciation:
+Appreciation: Gordon made a cool mask.
 
-Successes: 
+Successes: We all learned more about the tools we are using.
 
-Failures: 
+Failures: Main character model incomplete, concept art incomplete, and 3d tutorial incomplete
 
-Barriers:
+Barriers: Understanding how to fit our game into the format for the software assignments. 
 
-Next Time: 
+Next Time: Make more progress on our individual goals.
 
 # Next steps 
 
