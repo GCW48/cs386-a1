@@ -1,8 +1,27 @@
 # Positioning
 
 ## Problem statement:
+<p>The problem of
+[describe the problem]
+affects
+[the stakeholders affected by the problem]
+the impact of which is
+[what is the impact of the problem? What does it cost?]</p>
 
 ## Product Position Statement
+
+<p>For
+[target customer]
+Who
+[statement of the need or opportunity]
+The (product name)
+[product name] is a [product category]
+That
+[statement of key benefit; that is, the compelling reason to buy]
+Unlike
+[primary competitive alternative]
+Our product
+[statement of primary differentiation]</p>
 
 ## Value Proposition and Customer Segment:
 
