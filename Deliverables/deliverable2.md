@@ -34,10 +34,9 @@ Our product
 
 # Functional requirements
 
-1. one<br>
-2. two<br>
-3. three<br>
-4. four<br>
+1. Decent movement<br>
+2. Balanced time limit<br>
+3. Non-buggy collison<br>
 
 # Non-Functional requirements
 
