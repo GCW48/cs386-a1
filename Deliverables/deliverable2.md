@@ -2,20 +2,18 @@
 
 ## Problem statement:
 <p>The problem of
-[describe the problem]
-affects
-[the stakeholders affected by the problem]
-the impact of which is
-[what is the impact of the problem? What does it cost?]</p>
+Isolation among students is prevalent, therefore our game aims to create a horror environment that mirrors these sentiments in order to create a relatable experience that encapsulates these feelings in a controlled manner. </p>
 
 ## Product Position Statement
 
-<p>For
-[target customer]
-Who
-[statement of the need or opportunity]
-The (product name)
-[product name] is a [product category]
+<p>
+  
+  Our products lets students who struggle to relate to the social atmosphere of college
+  confront these challenges through the lense of fiction.
+  
+Our Untitled Project
+
+is a Short 3D horror title
 That
 [statement of key benefit; that is, the compelling reason to buy]
 Unlike
@@ -55,8 +53,8 @@ Our product
 
 # User stories
 
-1.one <br>
-one<br>
+1. As a college studnet, I want the game to effectively convey this feeling in a short time peroid so that I can finish the title <br>
+<br>
 2. two<br>
 two<br>
 3. three <br>
