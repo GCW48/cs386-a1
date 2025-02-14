@@ -18,6 +18,13 @@ Project repo: https://github.com/GCW48/cs386-a1/edit/main/Reports/Report1-31.md
 
 Carson:
 
+Started creating a character. Got stuck on using a camera in a 3D space. 
+
+Learned how to create a 3D space in GODOT. 
+
+Worked on Worksheets and deliverables. 
+
+
 
 
 
@@ -42,7 +49,7 @@ Appreciation:
 
 Successes: 
 
-Failures: 
+Failures: Failure to complete character (getting camera to work). 
 
 Barriers: 
 
@@ -53,6 +60,11 @@ Next Time: Make more progress on our individual goals.
 
 Carson: 
 
+Finish creating a character a usable character (finish camera, start movement, and alter to fitting values)
+
+Task one lacking errors provided, begin to work on dress-up and camera shifts
+
+Begin to discuss the processes of getting models to GODOT and discussing animation 
 
 Gordon:
 
