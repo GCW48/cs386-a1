@@ -62,7 +62,7 @@ The minimal viable product should have an art style, the core mechanics (jumping
 # User stories
 
 1. As a college student, I want the game to effectively convey this feeling in a short time peroid so that I can finish the title <br>
-<br>
+As an enjoyer of monsters, I want the monsters in the game to be intmidating both in apperance and movement in order to feel scared<br>
 2. two<br>
 two<br>
 3. As a horror fan, I want the atmosphere to be suspenseful, to give a sense of dread constantly <br>
