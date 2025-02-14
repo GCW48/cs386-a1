@@ -23,7 +23,7 @@ Carson:
 
 Gordon:
 
-
+Started working on Chairs and Lockers
 
 
 Maya: 
@@ -52,5 +52,6 @@ Carson:
 
 Gordon:
 
+Finish the models that are in progress
 
 Maya:
