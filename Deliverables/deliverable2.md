@@ -68,6 +68,7 @@ As a gamer, I want the chases to challenge my decision making in order to give m
 
 
 # issue tracker screenshot
+![image](https://github.com/user-attachments/assets/e5b59f00-84d3-466d-aff5-14e8825ab607)
 
 
 
