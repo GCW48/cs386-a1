@@ -42,7 +42,7 @@ new fictional perspective on feelings of social confusion and isolation using st
 
 # Non-Functional requirements
 
-1. one<br>
+1. one First person when the mask is put on. <br> 
 2. two<br>
 3. three<br>
 4. four<br>
