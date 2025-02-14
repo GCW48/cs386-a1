@@ -42,10 +42,10 @@ new fictional perspective on feelings of social confusion and isolation using st
 
 # Non-Functional requirements
 
-1. First person when the mask is put on. <br> 
-2. Good Graphics<br>
-3. Voice Acting<br>
-4. No variety in common enemy<br>
+1. Performance: Our game should have a reasonable loading time no longer than 10 seconds between scenes. <br>
+2. Usability: The user interface and controls should be easily navigable, intuitive, and considerate of possible visual impairments. <br>
+3. Reliability: Our game should run smoothly with no crashing. <br>
+
 
 # Minimal Viable Product
 
