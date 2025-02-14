@@ -12,29 +12,33 @@ Isolation among students is prevalent, therefore our game aims to create a horro
   confront these challenges through the lense of fiction.
   
 Our Untitled Project
-
 is a Short 3D horror title
 That
-[statement of key benefit; that is, the compelling reason to buy]
+portrays feelings of social anxiety through art, mechanics, and stories
 Unlike
-[primary competitive alternative]
+many horror games
 Our product
-[statement of primary differentiation]</p>
+will create an atmosphere unqiue to a school enviorment</p>
 
 ## Value Proposition and Customer Segment:
 
+Our untitled horror game uses stealth, platforming, and an eerie atmosphere to allow students to play a game, and therefore experience, a <br>
+new fictional perspective on feelings of social confusion and isolation using stressful stealth systems and an eerie atmosphere.
+
+
 # Stakeholders:
 
-- one<br>
-* two<br>
-- three<br>
-* four<br>
+- Us, the developers<br>
+* The players, and their time<br>
+- Playtesters<br>
+* NAU (AKA the client)<br>
 
 # Functional requirements
 
 1. Decent movement<br>
 2. Balanced time limit<br>
 3. Non-buggy collison<br>
+4. Eerie atmosphere
 
 # Non-Functional requirements
 
@@ -45,6 +49,10 @@ Our product
 
 # Minimal Viable Product
 
+The minimal viable product should have an art style, the core mechanics (jumping and moving), and systems (stealth/dress up system). <br>
+
+
+
 # Use Case Scenarios
 
 1. one
@@ -53,7 +61,7 @@ Our product
 
 # User stories
 
-1. As a college studnet, I want the game to effectively convey this feeling in a short time peroid so that I can finish the title <br>
+1. As a college student, I want the game to effectively convey this feeling in a short time peroid so that I can finish the title <br>
 <br>
 2. two<br>
 two<br>
