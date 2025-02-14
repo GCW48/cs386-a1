@@ -28,6 +28,11 @@ Started working on Chairs and Lockers
 
 Maya: 
 
+Continued working on enemy design.
+
+Created a outline for the story of the game that includes what characters, background, and mechanics we need for each scene.
+
+Worked on worksheet and deliverables.
 
 
 # Retrospection:
@@ -49,9 +54,14 @@ Next Time: Make more progress on our individual goals.
 Carson: 
 
 
-
 Gordon:
 
 Finish the models that are in progress
 
 Maya:
+
+Continue on enemy/character designs.
+
+Continue adding detail to the story, so we have a clearer idea of what exactly we need to create. 
+
+Start drafting script/dialogue for the game.
