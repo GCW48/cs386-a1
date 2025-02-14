@@ -65,7 +65,7 @@ The minimal viable product should have an art style, the core mechanics (jumping
 <br>
 2. two<br>
 two<br>
-3. As a horror fan, I want the atmosphere to be suspenseful, to give a sense of dread constantly
+3. As a horror fan, I want the atmosphere to be suspenseful, to give a sense of dread constantly <br>
 As a gamer, I want the chases to challenge my decision making  to give a sense challenge on quick thinking to the player
 
 
