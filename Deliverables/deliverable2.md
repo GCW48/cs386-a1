@@ -55,9 +55,7 @@ The minimal viable product should have an art style, the core mechanics (jumping
 
 # Use Case Scenarios
 
-1. one
-2. two
-3. three
+![image](https://github.com/user-attachments/assets/6e0904b8-aaa3-4a12-8ddb-4ba3dbe07033)
 
 # User stories
 
