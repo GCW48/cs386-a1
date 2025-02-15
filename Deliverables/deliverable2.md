@@ -14,7 +14,7 @@ Isolation among students is prevalent, therefore our game aims to create a horro
 Our Untitled Project
 is a Short 3D horror title
 That
-portrays feelings of social anxiety through art, mechanics, and stories
+portrays feelings of social anxiety through art, mechanics, and stories.
 Unlike
 many horror games
 Our product
