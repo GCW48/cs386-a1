@@ -45,15 +45,17 @@ Worked on worksheet and deliverables.
 # Retrospection:
 
 
-Appreciation: 
+Appreciation: Maya created some spppoooky designs. 
 
-Successes: 
+Successes: We learned a new way to look at the deliverables.
+
+Some new designs were created
 
 Failures: Failure to complete character (getting camera to work). 
 
-Barriers: 
+Barriers: I (Carson) am struggling to with the character camera. 
 
-Next Time: Make more progress on our individual goals.
+Next Time: Make more progress on our individual goals. Start trying to combine tools if enough progress is made. 
 
 # Next steps 
 
