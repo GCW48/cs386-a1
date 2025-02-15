@@ -76,6 +76,14 @@ As a gamer, I want the chases to challenge my decision making in order to give m
 ![image](https://github.com/user-attachments/assets/e5b59f00-84d3-466d-aff5-14e8825ab607)
 
 
+#Percentage
+
+Maya(#%)-
+
+Carson(#%)-Wrote problem statement, position statement, MVP, stakeholders, and two user stories. 
+
+Gordon(#%)-
+
 
 
 
