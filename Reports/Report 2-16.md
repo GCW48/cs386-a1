@@ -6,7 +6,7 @@ Group: 12
 
 Date: 2-16
 
-Location: Online
+Location: Student Union
 
 Present participants: Carson, Maya, Gordon
 
