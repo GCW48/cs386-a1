@@ -57,42 +57,60 @@ validation:
 
 # Use Case Scenarios
 
-![image](https://github.com/user-attachments/assets/6e0904b8-aaa3-4a12-8ddb-4ba3dbe07033)
+![image](https://github.com/user-attachments/assets/d64725e7-fe6e-4061-a3aa-10def7217c4e)
+
+
 
 # Use Case Descriptions
 
-Use Case #1: Player wants to Hide<br>
+Use Case #1: Player wants to disguise themself<br>
 Actor: Player<br>
-Goal: Player is able to hide<br>
-Trigger: Player sees a monster<br>
+Goal: Player is able to disguise<br>
+Trigger: Player wants to disguise<br>
 pre-conditons: Movement and hiding mechanics are implemented<br>
 post-conditions: Player succesfully hides<br>
 1.)Player sees an enemy.<br>
-2.)Player moves to put mask on.<br>
-3.)Game code changes enemy pathfinding.<br>
-4.)Player succesfully moves past enemy. <br>
+2.)Player disguises.<br>
+3.)Enemy script checks to see if player is disguised.<br>
+4.)Player moves past enemy. <br>
 
-Use Case #2:
-Actor: Player<br>
-Goal: Player is able to hide<br>
-Trigger: Player sees a monster<br>
-pre-conditons: Movement and hiding mechanics are implemented<br>
-post-conditions: Player succesfully hides<br>
-1.)Player sees an enemy.<br>
-2.)Player moves to put mask on.<br>
-3.)Game code changes enemy pathfinding.<br>
-4.)Player succesfully moves past enemy. <br>
+Alternate scenario: <br>
+1.)player sees an enemy<br>
+2.)player puts mask on <br>
+3.)player keeps it on for too long and is sent to a game over screen<br>
 
-Use Case #1: Player wants to Hide<br>
+Use Case #2: Player wants to win the game<br>
 Actor: Player<br>
-Goal: Player is able to hide<br>
-Trigger: Player sees a monster<br>
-pre-conditons: Movement and hiding mechanics are implemented<br>
-post-conditions: Player succesfully hides<br>
-1.)Player sees an enemy.<br>
-2.)Player moves to put mask on.<br>
-3.)Game code changes enemy pathfinding.<br>
-4.)Player succesfully moves past enemy. <br>
+Goal: player uses their movement to reach the win condition<br>
+Trigger: Player starts game<br>
+pre-conditons: Level is loaded.<br>
+post-conditions: Player reaches win condition<br>
+1.)Player is in level.<br>
+2.)Player uses their movement system.<br>
+3.)Collison keeps player in the level.<br>
+4.)Player avoids enemy systems. <br>
+5.)Player reaches win condition. <br>
+
+
+Alternate scenario: <br>
+1.)player sees an enemy<br>
+2.)player does not put a mask on<br>
+3.)player gets caught and goes to game-over screen<br>
+
+Use Case #3: Player want to see animations<br>
+Actor: playerr<br>
+Goal: An animation appears in-game<br>
+Trigger: Player moves<br>
+pre-conditons: loaded into level.<br>
+post-conditions: player movement is complete with animation<br>
+1.) Player is in level<br>
+2.) Player does any core mechanic<br>
+3.) Animation is displayed on screen<br>
+
+Alternate Scenario: <br>
+1.) Player goes to a menu.<br>
+2.) Player quits the game. 
+
 
 
 # User stories
