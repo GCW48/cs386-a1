@@ -156,7 +156,7 @@ time estimate: 5 (movement, stealth, and playtests)
 priority: 3<br>
 time estimate: 5 (movement, art, models, animation, and pathfinding)
 
-7.As a gamer, I want the chases to challenge my decision making in order to give me a sense of challenge regarding my quick thinking:<br>
+6.As a gamer, I want the chases to challenge my decision making in order to give me a sense of challenge regarding my quick thinking:<br>
 priority: 3<br>
 time estimate: 3 (enemy pathfinding, level design, and player movement). 
 
