@@ -152,11 +152,11 @@ time estimate: 4 (art, implementation, and story)
 priority: 4<br>
 time estimate: 5 (movement, stealth, and playtests)
 
-5. As a horror fan, I want the atmosphere to be suspenseful, in order to give me a sense of dread constantly <br>
+5.As a horror fan, I want the atmosphere to be suspenseful, in order to give me a sense of dread constantly <br>
 priority: 3<br>
 time estimate: 5 (movement, art, models, animation, and pathfinding)
 
-6.As a gamer, I want the chases to challenge my decision making in order to give me a sense of challenge regarding my quick thinking.:
+7.As a gamer, I want the chases to challenge my decision making in order to give me a sense of challenge regarding my quick thinking:<br>
 priority: 3<br>
 time estimate: 3 (enemy pathfinding, level design, and player movement). 
 
