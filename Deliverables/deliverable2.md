@@ -7,9 +7,7 @@ Isolation among students is prevalent, therefore our game aims to create a horro
 ## Product Position Statement
 
 <p>
-  
-  Our products lets students who struggle to relate to the social atmosphere of college
-  confront these challenges through the lense of fiction.
+The problem of students struggling in a social atmosphere affects their perception of those around them the impact of which is isolation in their environment.
   
 Our Untitled Project
 is a Short 3D horror title
@@ -25,19 +23,20 @@ will create an atmosphere unqiue to a school enviorment</p>
 Our untitled horror game uses stealth, platforming, and an eerie atmosphere to allow students to play a game, and therefore experience, a <br>
 new fictional perspective on feelings of social confusion and isolation using stressful stealth systems and an eerie atmosphere.
 
+Customer Segment: Students who enjoy games and sometimes sturggle in a social enviorment.
 
 # Stakeholders:
 
-- Us, the developers<br>
-* The players, and their time<br>
-- Playtesters<br>
-* NAU (AKA the client)<br>
+- Us, the developers: We are investing time and thought creating this project.<br>
+* The players: the players will spend their time playing the title<br>
+- Playtesters: playtesters will spend time and give us feedback on the project.<br>
+* NAU (AKA the client): NAU(CS386) is assigning  and wants an outcome from the product.<br>
 
 # Functional requirements
 
-1. Decent movement<br>
-2. Balanced time limit<br>
-3. Non-buggy collison<br>
+1. Smooth movement for the player that adds to the metaphor<br>
+2. Balanced time limit for the masks<br>
+3. Non-buggy collison on objects<br>
 4. Eerie atmosphere
 
 # Non-Functional requirements
@@ -56,6 +55,19 @@ The minimal viable product should have an art style, the core mechanics (jumping
 # Use Case Scenarios
 
 ![image](https://github.com/user-attachments/assets/6e0904b8-aaa3-4a12-8ddb-4ba3dbe07033)
+
+# Use Case Descriptions
+
+Use Case #1: Player wants to Hide<br>
+Actor: Player
+Goal: Player is able to hide
+Trigger: Player sees a monster
+pre-conditons: Movement and hiding mechanics are implemented
+post-conditions: Player succesfully hides
+1.)Player sees an enemy
+2.)Player moves to put mask on
+3.)
+
 
 # User stories
 
