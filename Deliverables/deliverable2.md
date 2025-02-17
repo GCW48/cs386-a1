@@ -41,9 +41,14 @@ Customer Segment: Students who enjoy games and sometimes sturggle in a social en
 
 # Non-Functional requirements
 
-1. Performance: Our game should have a reasonable loading time no longer than 10 seconds between scenes. <br>
-2. Usability: The user interface and controls should be easily navigatble, intuitive, and considerate of possible visual impairments. <br>
-3. Reliability: Our game should run smoothly with no crashing. <br>
+1. Performance:
+Our game should have a reasonable loading time no longer than 10 seconds between scenes. <br>
+
+
+3. Usability:
+The user interface and controls should be easily navigatble, intuitive, and considerate of possible visual impairments. 90% of playtesters should be able to discent the objective and controls without any developer input.<br>
+
+5. Reliability: Our game should run smoothly with no crashing or major bugs in more than 80% of of all playtests. Any bug should be adressed.<br>
 
 
 # Minimal Viable Product
@@ -55,7 +60,7 @@ The artstyle
 validation: 
 
 
-# Use Case Scenarios
+# Use Case Diagram
 
 ![image](https://github.com/user-attachments/assets/d64725e7-fe6e-4061-a3aa-10def7217c4e)
 
@@ -149,6 +154,8 @@ time estimate:
 # issue tracker screenshot
 ![image](https://github.com/user-attachments/assets/e5b59f00-84d3-466d-aff5-14e8825ab607)
 
+
+[Link to issues](https://github.com/GCW48/cs386-a1/issues)
 
 
 
