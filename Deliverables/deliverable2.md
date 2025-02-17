@@ -56,7 +56,7 @@ The user interface and controls should be easily navigatble, intuitive, and cons
 The minimal viable product should have an art style, the core mechanics (jumping and moving), and systems (stealth/dress up system). <br>
 
 ## art style:
-The artstyle should be congruent with the fearful fear of the enviorment.
+The artstyle should be congruent with the fear of the enviorment.
 
 validation: After playtests ask the playtester what words they would use to describe the enviorment. After, ask what they thought of particular assets.
 
@@ -72,7 +72,7 @@ The stealth system should be functional with it changing enemy pathfinding.
 validation: Run three different functional tests:<br>
 1.)Put on mask and then seen by enemy. Should result in no detection. 
 
-2.)Seen by enemny and then put on mask. Should result in detection.
+2.)Seen by enemy and then put on mask. Should result in detection.
 
 3.)Seen by enemy and mask is never put on. Should result in detection. 
 
@@ -137,37 +137,31 @@ Alternate Scenario: <br>
 # User stories
 
 1. As someone with a busy schedule, I want to the game to effectively convey its message in a short peroid of time so that I can complete it and understand the developers intentions.<br>
-systems involved:
-priority:
-time estimate:
+priority: 2<br>
+time estimate: 2 (How mant levels)
 
 2.As an enjoyer of monsters, I want the monsters in the game to be intmidating both in apperance and movement in order to feel scared<br>
-systems involved:
-priority:
-time estimate:
+priority: 4<br>
+time estimate: 5 (art, models, animation, and enemy pathfinding)
 
 3. As an artist, I want to play a game that considers the principles of design in its design to create an aesthetically pleasing scenes in order to fully feel immersed in the story.<br>
-systems involved:
-priority:
-time estimate:
+priority: 2<br>
+time estimate: 4 (art, implementation, and story)
 
 4.As a fellow game developer, I want to play a game that is fully fleshed out and smooth in gameplay in order to take inspiration for my own future games.<br>
-systems involved:
-priority:
-time estimate:
+priority: 4<br>
+time estimate: 5 (movement, stealth, and playtests)
 
 5. As a horror fan, I want the atmosphere to be suspenseful, in order to give me a sense of dread constantly <br>
-systems involved:
-priority:
-time estimate:
+priority: 3<br>
+time estimate: 5 (movement, art, models, animation, and pathfinding)
 
-6.As a gamer, I want the chases to challenge my decision making in order to give me a sense of challenge regarding my quick thinking.
-systems involved:
-priority:
-time estimate:
+6.As a gamer, I want the chases to challenge my decision making in order to give me a sense of challenge regarding my quick thinking.:
+priority: 3<br>
+time estimate: 3 (enemy pathfinding, level design, and player movement). 
 
 
-# issue tracker screenshot
+# issue tracker screenshot<br>
 ![image](https://github.com/user-attachments/assets/e5b59f00-84d3-466d-aff5-14e8825ab607)
 
 
