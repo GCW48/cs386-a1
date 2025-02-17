@@ -56,9 +56,25 @@ The user interface and controls should be easily navigatble, intuitive, and cons
 The minimal viable product should have an art style, the core mechanics (jumping and moving), and systems (stealth/dress up system). <br>
 
 ## art style:
-The artstyle 
-validation: 
+The artstyle should be congruent with the fearful fear of the enviorment.
 
+validation: After playtests ask the playtester what words they would use to describe the enviorment. After, ask what they thought of particular assets.
+
+
+## core mechanics:
+The core mechanics should be workable and fluid. 
+
+validation: For functionality destructive testing should be practiced. For game feel, playtests should be done until a majority of participants feel satisfied in the movement. 
+
+## stealth system:
+The stealth system should be functional with it changing enemy pathfinding. 
+
+validation: Run three different functional tests:<br>
+1.)Put on mask and then seen by enemy. Should result in no detection. 
+
+2.)Seen by enemny and then put on mask. Should result in detection.
+
+3.)Seen by enemy and mask is never put on. Should result in detection. 
 
 # Use Case Diagram
 
