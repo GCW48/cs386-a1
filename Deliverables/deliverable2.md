@@ -42,7 +42,7 @@ Customer Segment: Students who enjoy games and sometimes sturggle in a social en
 # Non-Functional requirements
 
 1. Performance: Our game should have a reasonable loading time no longer than 10 seconds between scenes. <br>
-2. Usability: The user interface and controls should be easily navigable, intuitive, and considerate of possible visual impairments. <br>
+2. Usability: The user interface and controls should be easily navigatble, intuitive, and considerate of possible visual impairments. <br>
 3. Reliability: Our game should run smoothly with no crashing. <br>
 
 
@@ -50,6 +50,9 @@ Customer Segment: Students who enjoy games and sometimes sturggle in a social en
 
 The minimal viable product should have an art style, the core mechanics (jumping and moving), and systems (stealth/dress up system). <br>
 
+## art style:
+The artstyle 
+validation: 
 
 
 # Use Case Scenarios
@@ -59,42 +62,75 @@ The minimal viable product should have an art style, the core mechanics (jumping
 # Use Case Descriptions
 
 Use Case #1: Player wants to Hide<br>
-Actor: Player
-Goal: Player is able to hide
-Trigger: Player sees a monster
-pre-conditons: Movement and hiding mechanics are implemented
-post-conditions: Player succesfully hides
-1.)Player sees an enemy
-2.)Player moves to put mask on
-3.)
+Actor: Player<br>
+Goal: Player is able to hide<br>
+Trigger: Player sees a monster<br>
+pre-conditons: Movement and hiding mechanics are implemented<br>
+post-conditions: Player succesfully hides<br>
+1.)Player sees an enemy.<br>
+2.)Player moves to put mask on.<br>
+3.)Game code changes enemy pathfinding.<br>
+4.)Player succesfully moves past enemy. <br>
+
+Use Case #2:
+Actor: Player<br>
+Goal: Player is able to hide<br>
+Trigger: Player sees a monster<br>
+pre-conditons: Movement and hiding mechanics are implemented<br>
+post-conditions: Player succesfully hides<br>
+1.)Player sees an enemy.<br>
+2.)Player moves to put mask on.<br>
+3.)Game code changes enemy pathfinding.<br>
+4.)Player succesfully moves past enemy. <br>
+
+Use Case #1: Player wants to Hide<br>
+Actor: Player<br>
+Goal: Player is able to hide<br>
+Trigger: Player sees a monster<br>
+pre-conditons: Movement and hiding mechanics are implemented<br>
+post-conditions: Player succesfully hides<br>
+1.)Player sees an enemy.<br>
+2.)Player moves to put mask on.<br>
+3.)Game code changes enemy pathfinding.<br>
+4.)Player succesfully moves past enemy. <br>
 
 
 # User stories
 
-1. As a college student, I want the game to effectively convey this feeling in a short time peroid so that I can finish the title <br>
+1. As someone with a busy schedule, I want to the game to effectively convey its message in a short peroid of time so that I can complete it and understand the developers intentions.<br>
+systems involved:
+priority:
+time estimate:
 
-As an enjoyer of monsters, I want the monsters in the game to be intmidating both in apperance and movement in order to feel scared<br>
+2.As an enjoyer of monsters, I want the monsters in the game to be intmidating both in apperance and movement in order to feel scared<br>
+systems involved:
+priority:
+time estimate:
 
-2. As an artist, I want to play a game that considers the principles of design in its design to create an aesthetically pleasing scenes in order to fully feel immersed in the story.<br>
+3. As an artist, I want to play a game that considers the principles of design in its design to create an aesthetically pleasing scenes in order to fully feel immersed in the story.<br>
+systems involved:
+priority:
+time estimate:
 
-As a fellow game developer, I want to play a game that is fully fleshed out and smooth in gameplay in order to take inspiration for my own future games.<br>
+4.As a fellow game developer, I want to play a game that is fully fleshed out and smooth in gameplay in order to take inspiration for my own future games.<br>
+systems involved:
+priority:
+time estimate:
 
-3. As a horror fan, I want the atmosphere to be suspenseful, in order to give me a sense of dread constantly <br>
+5. As a horror fan, I want the atmosphere to be suspenseful, in order to give me a sense of dread constantly <br>
+systems involved:
+priority:
+time estimate:
 
-As a gamer, I want the chases to challenge my decision making in order to give me a sense of challenge regarding my quick thinking.
+6.As a gamer, I want the chases to challenge my decision making in order to give me a sense of challenge regarding my quick thinking.
+systems involved:
+priority:
+time estimate:
 
 
 # issue tracker screenshot
 ![image](https://github.com/user-attachments/assets/e5b59f00-84d3-466d-aff5-14e8825ab607)
 
-
-# Percentage
-
-Maya(#%)-
-
-Carson(#%)-Wrote problem statement, position statement, MVP, stakeholders, and two user stories. 
-
-Gordon(#%)-
 
 
 
