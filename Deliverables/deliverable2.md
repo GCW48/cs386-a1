@@ -64,7 +64,7 @@ validation: After playtests ask the playtester what words they would use to desc
 ## core mechanics:
 The core mechanics should be workable and fluid. 
 
-validation: For functionality destructive testing should be practiced. For game feel, playtests should be done until a majority of participants feel satisfied in the movement. 
+validation: For functionality destructive testing should be practiced. For game feel, playtests should be done until a 8/10 of participants feel satisfied in the movement. 
 
 ## stealth system:
 The stealth system should be functional with it changing enemy pathfinding. 
