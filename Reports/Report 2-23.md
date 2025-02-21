@@ -21,7 +21,7 @@ Carson:
 
 Gordon:
 
-
+Worked on making chairs, tables, doors, stools for the game
 
 Maya: 
 
@@ -58,7 +58,7 @@ Carson:
 
 Gordon:
 
-
+Put bones in characters
 
 Maya:
 
