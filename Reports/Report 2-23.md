@@ -4,7 +4,7 @@
 
 Group: 12
 
-Date: 2-23
+Date: 2-21
 
 Location: Student Union
 
@@ -18,6 +18,7 @@ Project repo: https://github.com/GCW48/cs386-a1/edit/main/Reports/Report1-31.md
 
 Carson:
 
+I did not work on anything this week. 
 
 Gordon:
 
@@ -45,16 +46,22 @@ Failures:
 
 No specific storyline is created yet
 
+I (Carson) failed to make any progress on the programing side of the project since which is a problem for deliverable 3. 
+
 Barriers:
 
+Upcoming tests and midterms. 
+
 Next Time: 
+
+Make more progress on story so we can texture assets and create character so we have a game to test . 
 
 # Next steps 
 
 
 Carson: 
 
-
+Finish character. 
 
 Gordon:
 
