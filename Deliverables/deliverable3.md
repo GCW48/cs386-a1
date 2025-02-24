@@ -8,7 +8,7 @@ Use Bold every time that you use a noun that is a class in your model. Use Itali
 
 # Model
 
-Conceptual mode of system as UML Design
+Conceptual model of system as UML Design
 
 # Teamwork
 
