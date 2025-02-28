@@ -18,6 +18,7 @@ Project repo: https://github.com/GCW48/cs386-a1/edit/main/Reports/Report3-2.md
 
 Carson:
 
+Carson worked on the deliverable 3 and worksheets
 
 Gordon:
 
@@ -25,6 +26,7 @@ Planned out the layout of chapter 1 of the story.
 
 Maya: 
 
+Working on deliverable 3 and helped design chapter 1 of the story.
 
 
 
@@ -33,25 +35,30 @@ Maya:
 
 Appreciation: 
 
+Carson working on deliverable 3 for us. Maya and Gordon coming up with the road map.
 
 Successes:
 
+Chapter 1 design is close to complete.
 
 Failures:
 
+Troubles with organizing schedules.
 
 Barriers:
 
-
+Studing for midterms
 
 Next Time: 
 
+Next time is Midterms week
 
 # Next steps 
 
 
 Carson: 
 
+Studying for Midterms
 
 Gordon:
 
@@ -59,4 +66,4 @@ Design common place items for future use.
 
 Maya:
 
-
+Studying for Midterms
