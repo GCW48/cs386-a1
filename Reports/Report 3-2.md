@@ -21,7 +21,7 @@ Carson:
 
 Gordon:
 
-
+Planned out the layout of chapter 1 of the story.
 
 Maya: 
 
@@ -55,6 +55,7 @@ Carson:
 
 Gordon:
 
+Design common place items for future use.
 
 Maya:
 
