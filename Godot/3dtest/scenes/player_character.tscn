@@ -1,0 +1,35 @@
+[gd_scene load_steps=5 format=3 uid="uid://dj5p6p20x4iwx"]
+
+[ext_resource type="Script" path="res://scripts/player_character.gd" id="1_kepkd"]
+
+[sub_resource type="CapsuleMesh" id="CapsuleMesh_otp71"]
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_2mxj5"]
+radius = 0.444692
+height = 1.97205
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_6j378"]
+
+[node name="player_character" type="CharacterBody3D"]
+script = ExtResource("1_kepkd")
+
+[node name="skin" type="MeshInstance3D" parent="."]
+mesh = SubResource("CapsuleMesh_otp71")
+
+[node name="collision" type="CollisionShape3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 0.999946, -0.0103496, 0, 0.0103496, 0.999946, 0, 0, 0)
+shape = SubResource("CapsuleShape3D_2mxj5")
+
+[node name="camera" type="Node3D" parent="."]
+unique_name_in_owner = true
+transform = Transform3D(1, 0, 0, 0, 0.997596, 0.0693038, 0, -0.0693038, 0.997596, 0, 0, 2.08919)
+
+[node name="SpringArm3D" type="SpringArm3D" parent="camera"]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, -1.80722e-07, 1.49012e-08, -2.06722)
+collision_mask = 255
+shape = SubResource("SphereShape3D_6j378")
+spring_length = 8.0
+
+[node name="Camera3D" type="Camera3D" parent="camera/SpringArm3D"]
+unique_name_in_owner = true
+transform = Transform3D(1, 0, 0, 0, 0.939693, 0.34202, 0, -0.34202, 0.939693, 0, 1.12867, 3.10099)
