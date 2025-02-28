@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://rnmpwd3y5qac"]
+
+[ext_resource type="Script" path="res://script_practice.gd" id="1_pyhpy"]
+
+[node name="scriptPractice" type="Node3D"]
+script = ExtResource("1_pyhpy")
+
+[node name="Label" type="Label" parent="."]
+offset_right = 40.0
+offset_bottom = 23.0
+text = "HIIII"
