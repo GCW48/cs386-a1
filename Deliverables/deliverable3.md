@@ -12,8 +12,8 @@ Conceptual model of system as UML Design
 
 # Teamwork
 
-Mara Harvey (%) -
+Mara Harvey (40%) - Presentation
 
-Carson Shah (%) - 
+Carson Shah (30%) - 
 
-Gordon Wray (%) -
+Gordon Wray (30%) - Planning out Chapter 1, Presentation
