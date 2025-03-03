@@ -1,0 +1,60 @@
+[gd_scene load_steps=3 format=3 uid="uid://cer21wbpmjkae"]
+
+[ext_resource type="PackedScene" uid="uid://rnmpwd3y5qac" path="res://scenes/script_practice.tscn" id="2_buk8v"]
+[ext_resource type="PackedScene" uid="uid://dj5p6p20x4iwx" path="res://scenes/player_character.tscn" id="2_u4wc0"]
+
+[node name="main" type="Node3D"]
+transform = Transform3D(1, 0, 0, 0, -4.37114e-08, 1, 0, -1, -4.37114e-08, -3.10819, 4.4, 5.03399)
+metadata/_edit_group_ = true
+
+[node name="CSGCombiner3D" type="CSGCombiner3D" parent="."]
+use_collision = true
+
+[node name="CSGBox3D4" type="CSGBox3D" parent="CSGCombiner3D"]
+transform = Transform3D(-0.999875, 3.44158e-15, -0.015812, 0, 1, 0, 0.015812, 0, -0.999875, 13.404, 8.22379, 0.0502167)
+use_collision = true
+size = Vector3(33.305, 1, 9.80275)
+
+[node name="CSGCylinder3D" type="CSGCylinder3D" parent="CSGCombiner3D/CSGBox3D4"]
+transform = Transform3D(-0.995349, 0.0917423, 0.0294059, 0.0920812, 0.995697, 0.0103843, -0.0283267, 0.0130437, -0.999514, 0.364433, -0.200878, -0.0144157)
+operation = 2
+radius = 2.1449
+height = 3.77166
+sides = 50
+
+[node name="CSGBox3D3" type="CSGBox3D" parent="CSGCombiner3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 13.4475, 4.3069, -5.17957)
+size = Vector3(32.7405, 9.54834, 1)
+
+[node name="CSGBox3D2" type="CSGBox3D" parent="CSGCombiner3D"]
+transform = Transform3D(-6.94335e-06, -1, 0.000872664, 0.0079062, -0.00087269, -0.999968, 0.999969, -4.37522e-08, 0.0079062, -2.42101, 4.31941, 0.316931)
+use_collision = true
+size = Vector3(9.61816, 1.02136, 7.80164)
+
+[node name="CSGCylinder3D" type="CSGCylinder3D" parent="CSGCombiner3D/CSGBox3D2"]
+transform = Transform3D(-0.995349, 0.0917423, 0.0294059, 0.0920812, 0.995697, 0.0103843, -0.0283267, 0.0130437, -0.999514, 0.364433, -0.200878, -0.0144157)
+operation = 2
+radius = 2.1449
+height = 3.77166
+sides = 50
+
+[node name="CSGBox3D" type="CSGBox3D" parent="CSGCombiner3D"]
+transform = Transform3D(0.00790625, 0, -0.999969, 0, 1, 0, 0.999969, 0, 0.00790625, 13.3481, -0.100924, 0.195261)
+use_collision = true
+size = Vector3(9.61816, 1.02136, 32.8193)
+
+[node name="CSGCylinder3D" type="CSGCylinder3D" parent="CSGCombiner3D/CSGBox3D"]
+transform = Transform3D(-0.995349, 0.0917423, 0.0294059, 0.0920812, 0.995697, 0.0103843, -0.0283267, 0.0130437, -0.999514, 0.364433, -0.200878, -0.0144157)
+operation = 2
+radius = 2.1449
+height = 3.77166
+sides = 50
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 16.7787, 4, 7.6)
+light_energy = 5.364
+
+[node name="scriptPractice" parent="." instance=ExtResource("2_buk8v")]
+
+[node name="player_character" parent="." instance=ExtResource("2_u4wc0")]
+transform = Transform3D(-0.0111698, -2.66454e-15, 0.999938, 0.999938, -4.37114e-08, 0.0111698, 4.37087e-08, 1, 4.8825e-10, 0, 3.71494, 0)

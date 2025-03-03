@@ -51,8 +51,6 @@ quotes:
 
 "If you want to make a platformer, then don't make your controls too loose" (paraphrased).
 
-Assesment: Nice to Have
-
 ### Gordon:
 who: 
 Random Guy from Germany - Sebastion
