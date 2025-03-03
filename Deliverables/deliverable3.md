@@ -24,22 +24,23 @@ The **stealth system** should have reasonable **enemy** ***pathfinding*** and cl
 
 
 
-The **art** of the title should properly *** convey a sense of dread to the player ***. The artstyle is focused around a _college_ campus. The _protagonist's appearance_ is meant to be ambiguous as to allow the  player to relate to the characters. The _monster designs_ loom over the player to invoke dread.
+The **art** of the title should properly ***convey a sense of dread to the player***. The artstyle is focused around a _college_ campus. The _protagonist's appearance_ is meant to be ambiguous as to allow the  player to relate to the characters. The _monster designs_ loom over the player to invoke dread.
 
 
 
 
-The **story** is intended to show the protagonist becoming more comfortable with their _horror scenario_ within the school. It follows the _isolated protagonist_ as they attend a new school. They soon see their peers' faces get taken and run away, only to have theirs taken too. They must journey further into the school to regain their face, all the while, *** becoming more comfortable navigating the school. ***
+The **story** is intended to show the protagonist becoming more comfortable with their _horror scenario_ within the school. It follows the _isolated protagonist_ as they attend a new school. They soon see their peers' faces get taken and run away, only to have theirs taken too. They must journey further into the school to regain their face, all the while, ***becoming more comfortable navigating the school.***
 
 
 # Model
 
-Conceptual model of system as UML Design
+![image](https://github.com/user-attachments/assets/c8115d0e-1a78-4900-ac71-809a19ea03ed)
+
 
 # Teamwork
 
 Mara Harvey (40%) - Presentation
 
-Carson Shah (30%) - 
+Carson Shah (30%) - Deliverable 3
 
 Gordon Wray (30%) - Planning out Chapter 1, Presentation
