@@ -35,7 +35,7 @@ Working on deliverable 3 and helped design chapter 1 of the story.
 
 Appreciation: 
 
-Carson working on deliverable 3 for us. Maya and Gordon coming up with the road map.
+Maya and Gordon coming up with the road map.
 
 Successes:
 
