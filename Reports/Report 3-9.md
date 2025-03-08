@@ -66,3 +66,6 @@ Design common place items for future use.
 
 Maya:
 
+Create/draft for each different room/setting layouts that we will use in game.
+
+Make note of what items will be in there, what is interactable and not, etc.
