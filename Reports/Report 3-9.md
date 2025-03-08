@@ -35,11 +35,11 @@ Presentation/Midterm Week
 
 Appreciation: 
 
-
+Finished Midterms! 
 
 Successes:
 
-
+We did the presentation. 
 
 Failures:
 
@@ -47,18 +47,18 @@ Gordon ended up focusing on midterms too
 
 Barriers:
 
-
+Midterms :D
 
 Next Time: 
 
-
+Have more code completed.
 
 # Next steps 
 
 
 Carson: 
 
-
+Write Code for the basic mechanics. 
 
 Gordon:
 
